@@ -1,5 +1,3 @@
-# Queue/Worker System PoC - README
-
 ## 📌 What This System Is About
 
 This Proof of Concept (PoC) demonstrates a scalable and fault‑tolerant **queue/worker system** designed to execute multi‑step workflows in a cloud‑based web application. The system handles high task volumes, supports long‑running operations, ensures workflow consistency, and provides mechanisms for retries, compensation, and monitoring.
