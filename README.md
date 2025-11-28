@@ -94,6 +94,11 @@ Follow these steps to run everything on your system.
 
 ---
 
+```bash
+cd server
+npm install
+```
+
 ## **1️⃣ Start PostgreSQL & Redis using Docker Compose**
 
 ```bash
