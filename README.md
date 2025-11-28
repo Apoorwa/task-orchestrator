@@ -44,17 +44,17 @@ Supports HTTP triggers, scheduled jobs, and internal events.
 
 ### **Task Execution**
 
-Supports: - API calls\
+Supports: - API calls
 
-- Data processing\
+- Data processing
 - Email/PDF generation
 
 ### **Monitoring & Logging**
 
-Stores: - Status\
+Stores: - Status
 
-- Timestamps\
-- Metadata\
+- Timestamps
+- Metadata
 - Retry count
 
 ### **Retry & Compensation**
@@ -81,9 +81,9 @@ Horizontal worker scaling.
 
 ### **Steps**
 
-1.  Retrieve orders\
-2.  Create invoice entry\
-3.  Generate PDF (worker)\
+1.  Retrieve orders
+2.  Create invoice entry
+3.  Generate PDF (worker)
 4.  Email invoice (worker)
 
 ---
