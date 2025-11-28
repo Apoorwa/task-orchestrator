@@ -2,9 +2,7 @@
 
 This Proof of Concept (PoC) demonstrates a scalable and fault-tolerant
 **queue/worker system** designed to execute multi-step workflows in a
-cloud-based web application. The system handles high task volumes,
-supports long-running operations, ensures workflow consistency, and
-provides retry, compensation, and monitoring mechanisms.
+cloud-based web application.
 
 ---
 
