@@ -1,0 +1,11 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "ignore": ["dist", "node_modules"],
+  "execMap": {
+    "ts": "ts-node -r tsconfig-paths/register"
+  },
+  "events": {
+    "restart": "echo 'Restarting due to changes...'"
+  }
+}
