@@ -63,8 +63,6 @@ Ensures consistency across distributed systems.
 
 Horizontal worker scaling.
 
----
-
 ## 🛠️ Technical Specifications
 
 - **TypeScript**
